@@ -1,4 +1,3 @@
-/*Codigo hecho por mateito*/
 package main
 
 import (
